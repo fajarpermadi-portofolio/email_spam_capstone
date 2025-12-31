@@ -6,3 +6,4 @@ scikit-learn
 nltk
 Sastrawi
 scikit-fuzzy
+networkx
