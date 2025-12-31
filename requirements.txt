@@ -1,6 +1,8 @@
 streamlit
 joblib
-scikit-learn
 numpy
 pandas
+scikit-learn
 nltk
+Sastrawi
+scikit-fuzzy
